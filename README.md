@@ -7,4 +7,4 @@ The original ICLR 2026 template did not include the arxiv option. ​I have modi
 \iclrpreprintcopy
 ```
 
-![An example.](./preview/.png)
+![An example.](./preview.png)
